@@ -1,5 +1,6 @@
 </details>
-### 🤖 Spambot by _MrLisick_
+🤖 Spambot by _MrLisick_
+
 Spambot is a lightweight and powerful chat automation utility for Fabric. Unlike simple macros, it features a Smart Scheduling System that automatically adjusts message intervals based on the time of day, helping you maintain a natural presence 24/7.
 
 ### **✨ Key Features**
