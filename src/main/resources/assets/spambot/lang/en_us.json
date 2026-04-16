@@ -1,0 +1,11 @@
+{
+  "spambot.msg.on": "§6[SpamBot] §aStarted",
+  "spambot.msg.off": "§6[SpamBot] §cStopped",
+  "spambot.msg.night_on": "§6[SpamBot] §dNight Mode: §aACTIVATED",
+  "spambot.msg.night_off": "§6[SpamBot] §dNight Mode: §cDISABLED",
+  "spambot.msg.text_set": "§6[SpamBot] §fText saved!",
+  "spambot.msg.delay_set": "§6[SpamBot] §fDefault Delay: %s",
+  "spambot.msg.night_delay_set": "§6[SpamBot] §dNight Delay: %s",
+  "spambot.msg.start_set": "§6[SpamBot] §fNight starts at: %s:00",
+  "spambot.msg.end_set": "§6[SpamBot] §fNight ends at: %s:00"
+}

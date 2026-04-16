@@ -1,0 +1,11 @@
+{
+  "spambot.msg.on": "§6[SpamBot] §a已启动",
+  "spambot.msg.off": "§6[SpamBot] §c已停止",
+  "spambot.msg.night_on": "§6[SpamBot] §d夜间模式: §a已激活",
+  "spambot.msg.night_off": "§6[SpamBot] §d夜间模式: §c已禁用",
+  "spambot.msg.text_set": "§6[SpamBot] §f文本已保存！",
+  "spambot.msg.delay_set": "§6[SpamBot] §f常规延迟: %s",
+  "spambot.msg.night_delay_set": "§6[SpamBot] §d夜间延迟: %s",
+  "spambot.msg.start_set": "§6[SpamBot] §f夜间开始时间: %s:00",
+  "spambot.msg.end_set": "§6[SpamBot] §f夜间結束时间: %s:00"
+}

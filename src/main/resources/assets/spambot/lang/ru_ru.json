@@ -1,0 +1,11 @@
+{
+  "spambot.msg.on": "§6[SpamBot] §aЗапущен",
+  "spambot.msg.off": "§6[SpamBot] §cОстановлен",
+  "spambot.msg.night_on": "§6[SpamBot] §dНочной режим: §aАКТИВИРОВАН",
+  "spambot.msg.night_off": "§6[SpamBot] §dНочной режим: §cВЫКЛЮЧЕН",
+  "spambot.msg.text_set": "§6[SpamBot] §fТекст сохранен!",
+  "spambot.msg.delay_set": "§6[SpamBot] §fОбычный КД: %s",
+  "spambot.msg.night_delay_set": "§6[SpamBot] §dНочной КД: %s",
+  "spambot.msg.start_set": "§6[SpamBot] §fНочь начинается в: %s:00",
+  "spambot.msg.end_set": "§6[SpamBot] §fНочь заканчивается в: %s:00"
+}

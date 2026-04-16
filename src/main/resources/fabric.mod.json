@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "spambot",
+  "version": "2.0.0",
+  "name": "Spambot",
+  "description": "Simple spambot mod by _MrLisick_",
+  "authors": [
+    "_MrLisick_"
+  ],
+  "contact": {
+    "Github": "https://github.com/MrLisick/SpamBot",
+    "modrinth": "https://modrinth.com/mod/spambot"
+  },
+  "license": "MIT",
+  "icon": "assets/spambot/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "org.Spambot.spambot.client.SpambotClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.21",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
